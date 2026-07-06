@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+.gradle
+.idea
+.kotlin
+node_modules
+**/node_modules
+**/build
+frontend/dist
+frontend/.vite
+gradle-dist
+Dockerfile
+docker-compose.yml

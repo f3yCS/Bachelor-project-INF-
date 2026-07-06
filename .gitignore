@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+.idea/
+*.iml
+out/
+.DS_Store
+local.properties
+.env
+.env.*
+gradle-dist/
+node_modules/
+frontend/dist/
+frontend/.vite/
